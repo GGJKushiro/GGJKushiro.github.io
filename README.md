@@ -1,2 +1,1 @@
-# GGJKushiro.github.io
-GGJ Kushiro サイト
+# GGJ Kushiro サイト
